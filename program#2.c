@@ -4,6 +4,6 @@
 
 main()
 {
-    printf("Hello Pednoii");
+    printf("Hello Kuki");
 
 }
