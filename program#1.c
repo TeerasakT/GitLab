@@ -4,6 +4,7 @@
 
 main()
 {
-    printf("Hello World EIEI");
+    printf("Hello World EIEI Thailand");
 
+	printf("Hello World EIEI Thailand");
 }
